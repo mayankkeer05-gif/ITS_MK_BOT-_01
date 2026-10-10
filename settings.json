@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "ITS_MK_BOT_01",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ITS_MK_BOT_01",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "ITS-MK-BLOCKS.aternos.me",
+    "port": 45083,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "chalol123"
     },
     "anti-afk": {
       "enabled": true,
@@ -29,11 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 100000000,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "MADE BY ITS_MK_PLAYS",
       ]
     },
     "chat-log": true,
